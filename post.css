@@ -1,0 +1,44 @@
+
+a
+{
+    text-decoration: none;
+    color: #f2f3f7;
+}
+img
+{
+  border-radius: 20px;
+ 
+}
+video
+{
+    border-radius: 20px;
+}
+::-webkit-scrollbar {
+    width: 7px;
+    height: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px #ffffff00;
+    border-radius: 10px;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+          background:linear-gradient(
+45deg,
+#06dee1,
+#79ff6c
+
+    );
+    border-radius: 10px;
+  }
+  .likee
+  {
+     text-decoration: none;
+  }
+  .mybook
+  {
+    font-family: Arial, Helvetica, sans-serif;
+  }

@@ -1,0 +1,62 @@
+body{
+    text-decoration:none
+}
+.yazım
+{
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: -35%;
+    margin-right: 0%;
+    padding-left: 0%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    padding-right: 0%;
+    color: #ffffff;
+    text-decoration:none;
+}
+#search_box
+{
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    padding-left: 0%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    padding-right: 0%;
+    
+    
+}
+.fablem
+{
+    background-color: #EC173A;
+border-radius: 100px;
+width:10px;
+height:10px;
+
+}
+.prof
+{
+    width: 50px;float: right;
+}
+.çıkıs
+{
+    font-size:11px;float: right;margin:10px;color:white;
+}
+.bildirim
+{
+    display: inline-block;position: relative;
+}
+.bildirim{
+    width:25px;float:right;margin-top: 10px;margin-left: 40%
+}
+.mesaj
+{
+    display: inline-block;position: relative;margin-left: 10px;
+    
+}
+.mesajsvg
+{
+    float:right;margin-top: -10px;
+    
+}
